@@ -1,2 +1,3 @@
 *.csv
 /image_dataset/*
+/rgb_dataset/*
