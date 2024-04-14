@@ -1,3 +1,5 @@
 *.csv
 /image_dataset/*
 /rgb_dataset/*
+*.keras
+/data_capture/*
